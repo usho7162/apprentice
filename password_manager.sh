@@ -13,3 +13,4 @@ read password
 echo "${service_name}:${user_name}:${password}" >> password_file.txt
 
 echo "Thank you!"
+
